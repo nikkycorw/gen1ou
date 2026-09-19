@@ -1,0 +1,197 @@
+===September 2026 Teams [nickscrowbar]===
+Current "Commonly" Used OU Pokemon Rankings:
+Tauros (S)
+Snorlax (S)
+Exeggutor (A)
+Starmie (A)
+Chansey (A)
+Alakazam (B1)
+Zapdos (B1)
+Rhydon (B1)
+Jynx (B2)
+Gengar (B2)
+Cloyster (B2)
+Jolteon (C1)
+Articuno (C1)
+Victreebel (C1)
+Slowbro (C2)
+Persian (C2)
+Golem (C2)
+Dragonite (C2)
+Lapras (C2)
+Moltres (C3)
+Porygon (C3)
+Sandslash (C3)
+
+
+==Cold Ambient Waves==
+"Designed for STAB surf starmie to break through special resistors to blizzard. Sleep spreads with exeggutor and chansey along with neutral coverage with seismic toss. Reflect war snorlax to help freeze the opposing pokemon. Zapdos to break through starmie and low defense special walls. Tauros offensive set to sweep at the end."
+
+
+Starmie
+- Surf
+- Psychic
+- Thunder Wave
+- Recover
+
+Exeggutor
+-Sleep Powder
+-Stun Spore
+-Psychic
+-Explosion
+
+Chansey
+-Sing
+-Seismic Toss
+-Thunder Wave
+-Soft Boiled
+
+Snorlax
+-Body Slam
+-Ice Beam
+-Reflect
+-Rest
+
+Zapdos
+-Thunderbolt
+-Drill Peck
+-Thunder Wave
+-Agility
+
+Tauros
+-Body Slam
+-Earthquake
+-Blizzard
+-Hyper Beam
+
+
+==Stall Wall==
+"Heavy stall with blizzard starmie as the lead. Sleeper with exeggutor. Alakazam as another special wall with reflect and snorlax as a physical wall that can freeze with reflect and ice beam. Electric immunity and stall with substitute on the rhydon. Rest tauros for maximum time on the field to deal damage."
+
+
+Starmie
+-Blizzard
+-Psychic
+-Thunder Wave
+-Recover
+
+Exeggutor
+-Sleep Powder
+-Stun Spore
+-Psychic
+-Explosion
+
+Alakazam
+-Reflect
+-Seismic Toss
+-Psychic
+-Recover
+
+Snorlax
+-Body Slam
+-Ice Beam
+-Reflect
+-Rest
+
+Rhydon
+-Earthquake
+-Rock Slide
+-Body Slam
+-Substitute
+
+Tauros
+-Body Slam
+-Blizzard
+-Hyper Beam
+-Rest
+
+
+==Lovely Snow==
+"Lead sleeper for surprise. STAB starmie to break through special resistors to blizzard. Sleep stacker with exeggutor and paralysis spreader. Offensive snorlax to break through special walls. Zapdos to have good electric coverage and spread paralysis. Rest tauros to sweep at the end once the special walls are off the field."
+
+
+Jynx
+-Lovely Kiss
+-Psychic
+-Blizzard
+-Rest
+
+Starmie
+-Surf
+-Psychic
+-Thunder Wave
+-Recover
+
+Exeggutor
+-Sleep Powder
+-Stun Spore
+-Psychic
+-Explosion
+
+Snorlax
+-Body Slam
+-Earthquake
+-Counter
+-Self Destruct
+
+Zapdos
+-Thunderbolt
+-Drill Peck
+-Thunder Wave
+-Agility
+
+Tauros
+-Body Slam
+-Blizzard
+-Hyper Beam
+-Rest
+
+
+==Spook Fest==
+"Lead sleeper for surprise. Blizzard starmie for freeze and better ice coverage. Hyper beam cloyster for surprise and physical defense with special offensive retaliation. Sleep stacker with seismic toss chansey to cover special walls. Amnesia snorlax with self destruct to cover special walls and explode when needed. Tauros for sweeping."
+
+
+Gengar
+-Hypnosis
+-Psychic
+-Thunderbolt
+-Explosion
+
+Starmie
+-Blizzard
+-Psychic
+-Thunder Wave
+-Recover
+
+Cloyster
+-Clamp
+-Blizzard
+-Hyper Beam
+-Explosion
+
+Chansey
+-Sing
+-Seismic Toss
+-Thunder Wave
+-Soft Boiled
+
+Snorlax
+-Body Slam
+-Ice Beam
+-Amnesia
+-Self Destruct
+
+Tauros
+-Body Slam
+-Earthquake
+-Blizzard
+-Hyper Beam
+
+
+
+
+
+
+
+
+
